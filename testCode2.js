@@ -1,3 +1,6 @@
 console.log("test code 2")
 console.log("수정 1")
 console.log("수정 2 - 개발")
+console.log("수정 3 - 신기능 추가")
+console.log("수정 4 - 수정 사항 처리")
+console.log("수정 4 - 1 - 안 중요한 수정 사항")
